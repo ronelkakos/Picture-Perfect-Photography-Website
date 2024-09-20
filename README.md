@@ -1,4 +1,4 @@
-# Picture Perfect Photography Website
+# Picture Photography Website
 
 (Created from beginning of November 2023 to end of December 2023)
 
